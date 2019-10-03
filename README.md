@@ -1,6 +1,6 @@
 Este proyecto es para el taller de React.Js [CTICs 2019](https://www.uajms.edu.bo/afiche-ctics-web/).
 
-## Scripts Disponibles
+## Comandos Disponibles
 
 dentro del proyecto usar los siguientes comandos:
 
