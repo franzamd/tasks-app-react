@@ -20,8 +20,6 @@ function TaskItem(props) {
         <CardImg
           src={props.photoURL}
           style={{
-            height: '300px',
-            width: '300px',
             margin: '2px'
           }}></CardImg>
         <CardText>{props.description}</CardText>

@@ -228,7 +228,6 @@ class App extends Component {
         <Router>
           <Route
             path='/'
-            exact
             render={() => (
               <React.Fragment>
                 <Header
